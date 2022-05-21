@@ -1,0 +1,14 @@
+{
+  "name": "mongo-client-qn",
+  "version": "1.0.0",
+  "description": "mongo client taken from mongo \"manage-connections-aws-lambda\" post",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "jofla",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  }
+}
