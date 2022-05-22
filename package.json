@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Que-Net-cl/mongo-client-qn.git"
   }
 }
